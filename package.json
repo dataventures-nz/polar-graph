@@ -1,0 +1,30 @@
+{
+  "name": "polar-graph",
+  "version": "0.0.1",
+  "description": "d3 polar line graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dataventures-nz/polar-graph.git"
+  },
+  "keywords": [],
+  "author": "Sarah Wheaton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dataventures-nz/polar-graph/issues"
+  },
+  "homepage": "https://github.com/dataventures-nz/polar-graph#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "moment": "^2.24.0",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "d3": "^5.14.1",
+    "lodash": "^4.17.15"
+  }
+}

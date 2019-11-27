@@ -1,0 +1,42 @@
+$primary-color: white;
+$bg: black;
+$dv-orange: #EE6823;
+
+body{
+    background-color: $bg;
+}
+
+h1 {
+  color: $primary-color;
+  background-color: $bg;
+}
+ svg{
+   background-color: $bg;
+   color: $primary-color;
+ }
+
+ path{
+   fill:$dv-orange;
+   fill-opacity:0.4;
+   stroke:$dv-orange;
+   stroke-width:0.5px;
+ }
+
+ line{
+   stroke:white;
+ }
+
+text{
+  stroke:none;
+  fill:white;
+}
+
+.axis{
+  text{
+    text-anchor:end;
+    stroke:none;
+    fill:grey;}
+  line{
+    stroke:grey;
+  }
+}

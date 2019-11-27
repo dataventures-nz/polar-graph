@@ -1,0 +1,26 @@
+h1 {
+  color: white;
+  background-color: black; }
+
+svg {
+  background-color: black;
+  color: white; }
+
+path {
+  fill: #EE6823;
+  fill-opacity: 0.4;
+  stroke: #EE6823;
+  stroke-width: 1.25px; }
+
+line {
+  stroke: white; }
+
+text {
+  stroke: none;
+  fill: white; }
+
+text.axis {
+  text-anchor: end; }
+
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
